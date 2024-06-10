@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-This repository contains a Movie Recommendation System built using machine learning techniques. The system suggests movies based on user preferences and historical data.
+This repository contains a Movie Recommendation System designed to suggest movies based on user preferences. Using collaborative filtering and content-based filtering techniques, the system recommends movies similar to those that the user likes.
 
 ## Files in the Repository
 
