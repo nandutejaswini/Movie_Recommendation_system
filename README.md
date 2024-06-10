@@ -35,7 +35,7 @@ You can download the dataset from [Kaggle TMDB 5000 Movie Dataset](https://www.k
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/movie-recommendation-system.git
+   git clone https://github.com/nandutejaswini/movie-recommendation-system.git
    cd movie-recommendation-system
 ### Usage
 #### Jupyter Notebook
