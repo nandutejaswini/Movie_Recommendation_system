@@ -48,6 +48,11 @@ You can also modify the notebook to try different algorithms or preprocessing te
 2. Open your web browser and navigate to the URL provided by Streamlit (usually http://localhost:8501/).
 3. Use the web interface to get movie recommendations based on your input.
 
+###   How the Streamlit App Works
+1. Select a movie from the dropdown menu in the Streamlit app.
+2. The system will recommend five movies similar to the selected movie.
+3. Example movies to select from: "Spider-Man 3", "Spider-Man 2", "Spider-Man", "The Amazing Spider-Man", "The Amazing Spider-Man 2", "Arachnophobia".
+
 ### Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or new features to add.
 
